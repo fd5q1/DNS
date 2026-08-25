@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>PayloadContent</key><array><dict>
+<key>DNSSettings</key><dict>
+<key>DNSProtocol</key><string>HTTPS</string>
+<key>ServerURL</key><string>https://family.adguard-dns.com/dns-query</string>
+</dict>
+<key>PayloadDescription</key><string>AdGuard Family DNS protection</string>
+<key>PayloadDisplayName</key><string>AdGuard Family DNS</string>
+<key>PayloadIdentifier</key><string>com.fahad.adguard.family.dns.settings</string>
+<key>PayloadType</key><string>com.apple.dnsSettings.managed</string>
+<key>PayloadUUID</key><string>7E0E5B4D-9F6B-4C3A-A2B8-8A5C7B7D1E21</string>
+<key>PayloadVersion</key><integer>1</integer>
+</dict></array>
+<key>PayloadDisplayName</key><string>AdGuard Family DNS Protection</string>
+<key>PayloadIdentifier</key><string>com.fahad.adguard.family.dns</string>
+<key>PayloadOrganization</key><string>Fahad</string>
+<key>PayloadType</key><string>Configuration</string>
+<key>PayloadUUID</key><string>4D4C6A9A-5A8D-4F6D-8D3C-0F5A8E2B9C44</string>
+<key>PayloadVersion</key><integer>1</integer>
+</dict>
+</plist>
